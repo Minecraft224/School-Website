@@ -83,3 +83,33 @@ input
 }
 .campus-maindiv h5, .campus-maindiv p{
     margin-left: 20px;
+}
+.book{
+    cursor: pointer;
+}
+.book hr{
+    margin-bottom: 10px;
+}
+.modal-content{
+    margin-top: 100px;
+    text-align: center;
+}
+.img_modal{
+    display: inline-block;
+   margin-left: 100px;
+}
+.p_modal{
+    margin-top: 10px;
+}
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
